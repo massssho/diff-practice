@@ -1,4 +1,4 @@
 # diff-practice
 diff練習用
 変更staging用
-ブランチ変更１
+リベース練習
